@@ -9,6 +9,6 @@ public class test{
 		System.out.println("Hello java"+a);
 	System.out.println("Hello java22"+a);
 	System.out.println("Hello java2233"+a);
-	System.out.println("Hello java4"+a);
+	System.out.println("Hello java44"+a);
 	
 	}
